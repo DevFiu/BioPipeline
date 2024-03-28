@@ -5,6 +5,7 @@ BioPipeline is a comprehensive and easy-to-use automated analysis pipeline for m
 ## Key Features:
 
 1. Efficient MSA: BioPipeline utilizes high-performance MSA tools, such as MAFFT, to ensure accurate alignment of sequences.<br/>
+
 2. Customization: The pipeline offers two optional features:
 - Custom pairwise alignment between user-defined sequence fragments for precise matching of cross-species homologous sequences.
 - Phylogenetic tree construction based on alignment results to infer evolutionary relationships among species.
