@@ -1,5 +1,5 @@
 # BioPipeline
-BioPipeline: An Automated Analysis Pipeline for Multiple Sequence Alignment
+An Automated Analysis Pipeline for Multiple Sequence Alignment
 
 BioPipeline is a comprehensive and easy-to-use automated analysis pipeline for multiple sequence alignment (MSA). It is designed to streamline the process of genomic data analysis, making it faster, more accurate, and more accessible to researchers of all levels.
 
