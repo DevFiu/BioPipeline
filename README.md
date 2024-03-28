@@ -10,6 +10,7 @@ BioPipeline is a comprehensive and easy-to-use automated analysis pipeline for m
 - Custom pairwise alignment between user-defined sequence fragments for precise matching of cross-species homologous sequences.
 - Phylogenetic tree construction based on alignment results to infer evolutionary relationships among species.
 3. Visualization: BioPipeline integrates visualization tools to present complex evolutionary relationships in an intuitive and easy-to-understand graphical format.<br/>
+
 4. Multi-tree comparison: A unique feature of BioPipeline is its multi-tree comparison functionality. This allows users to compare and analyze multiple evolutionary trees generated from different datasets or methods, enabling the assessment of the stability and reliability of research results.
 BioPipeline provides a one-stop solution for phylogenetic analysis, offering:
 - Faster data processing: BioPipeline automates the analysis workflow, significantly reducing the time required for data processing.
