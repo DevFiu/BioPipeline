@@ -2,7 +2,7 @@
 
 BioPipeline is a comprehensive and easy-to-use automated analysis pipeline for multiple sequence alignment (MSA). It is designed to streamline the process of genomic data analysis, making it faster, more accurate, and more accessible to researchers of all levels.
 
-Key Features:
+## Key Features:
 
 Efficient MSA: BioPipeline utilizes high-performance MSA tools, such as MAFFT, to ensure accurate alignment of sequences.
 Customization: The pipeline offers two optional features:
